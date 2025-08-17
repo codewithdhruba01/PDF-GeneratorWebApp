@@ -12,8 +12,6 @@ This PDF Generator App provides a seamless two-screen experience for collecting 
 - **Responsive Design**: Works seamlessly across desktop, tablet, and mobile devices
 - **Professional PDF Layout**: Clean, formatted PDF output with proper styling
 
-### Screens
-
 #### Screen 1: Form Page
 - Collects user information through validated input fields
 - Required fields: Name, Email, Phone Number
@@ -105,8 +103,7 @@ src/
 
 4. **Open your browser**
    Navigate to `http://localhost:5173` to view the application
-
-## Getting Started
+   
 
 ### Running the Application
 
@@ -136,6 +133,12 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-⭐ **If you find this project useful, please give it a star!**
-<br> build with ❤️ by [Dhrubaraj Pati](https://codewithdhruba.netlify.app/) 
+<h4 align="center">⭐ If you find this project useful, please give it a star!</h4>
+
+<p align="center">
+  <a href="https://codewithdhruba.netlify.app/">Portfolios</a> -
+  <a href="https://www.linkedin.com/in/dhrubaraj-pati/">LinkedIn</a> - 
+  <a href="https://www.instagram.com/dhrubaraj_pati/">Instagram</a> -
+  <a href="https://www.linkedin.com/in/dhrubaraj-pati/">Contact me.</a> 
+</p>
 
